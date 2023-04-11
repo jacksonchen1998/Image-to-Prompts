@@ -34,3 +34,5 @@ Images were generated from the prompts using Stable Diffusion $2.0$ ($768$-v-ema
 [4] [SentenceTransformers](https://www.sbert.net/)
 
 [5] [CLIPInterrogator + OFA + ViT](https://www.kaggle.com/code/motono0223/clipinterrogator-ofa-vit)
+
+[6]
