@@ -35,6 +35,6 @@ Images were generated from the prompts using Stable Diffusion $2.0$ ($768$-v-ema
 
 [5] [CLIPInterrogator + OFA + ViT](https://www.kaggle.com/code/motono0223/clipinterrogator-ofa-vit)
 
-[6]
+[6] [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030.pdf)
 
-[7]
+[7] [CoCa: Contrastive Captioners are Image-Text Foundation Models](https://arxiv.org/pdf/2205.01917.pdf)
