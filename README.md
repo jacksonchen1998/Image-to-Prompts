@@ -2,7 +2,7 @@
 
 A generative text-to-image model is a model that can generate an image from a text prompt.
 
-This repository is a final prject for the course [EECM30064 Deep Learning](https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=111&Sem=2&CrsNo=535361&lang=zh-tw)
+This repository is a final project for the course [EECM30064 Deep Learning](https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=111&Sem=2&CrsNo=535361&lang=zh-tw)
 
 ## Motivation and Background
 
@@ -34,6 +34,8 @@ Sample images from the competition dataset and their corresponding prompts are s
 </table>
 
 ## Methodology
+
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/qtYkrdUoVvKEzV?hostedIn=slideshare&page=upload" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 
 ## Application and Datasets
