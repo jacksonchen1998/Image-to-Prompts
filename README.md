@@ -35,8 +35,7 @@ Sample images from the competition dataset and their corresponding prompts are s
 
 ## Methodology
 
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/qtYkrdUoVvKEzV?hostedIn=slideshare&page=upload" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-
+[Presntation Slides](https://www.slideshare.net/slideshow/embed_code/key/qtYkrdUoVvKEzV?hostedIn=slideshare&page=upload)
 
 ## Application and Datasets
 
