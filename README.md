@@ -1,6 +1,6 @@
 # Image to Prompt
 
-|[Code](./clipinterrogator-ofa-vit.ipynb)|[Slide](https://www.slideshare.net/jacksonChen22/imagetopromptspdf)|[Report](./Image_To_Prompts.pdf)
+| [Code](./clipinterrogator-ofa-vit.ipynb) | [Slide](https://www.slideshare.net/jacksonChen22/imagetopromptspdf) | [Report](./Image_To_Prompts.pdf) |
 
 A generative text-to-image model is a model that can generate an image from a text prompt.
 
