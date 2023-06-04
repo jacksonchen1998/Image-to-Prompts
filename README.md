@@ -37,7 +37,12 @@ Sample images from the competition dataset and their corresponding prompts are s
 
 ## Methodology
 
-[Presntation Slides](https://www.slideshare.net/slideshow/embed_code/key/qtYkrdUoVvKEzV?hostedIn=slideshare&page=upload)
+Our method is to ensemble the CLIP Interrogator, OFA model, and ViT model.
+
+Here's the ratio for three different model
+- Vision Transformer (ViT) model:  74.88%
+- CLIP Interrogator: 21.12%
+- OFA model fine-tuned for image captioning: 4%
 
 ## Application and Datasets
 
